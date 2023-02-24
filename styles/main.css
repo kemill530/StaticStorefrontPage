@@ -1,0 +1,8 @@
+body{
+    background: darkgrey url(../assets/pexels-ovan-62693.jpg);
+}
+
+.col{
+    margin: 5px;
+    padding: 10px;
+}
