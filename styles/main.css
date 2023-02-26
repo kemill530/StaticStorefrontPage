@@ -71,7 +71,7 @@ body p{
     width: 80vw;
     float: left;
     position: relative;
-    /* display: block; */
+    display: block;
 }
 
 .col{
@@ -84,24 +84,4 @@ body p{
     border-radius: 5%;
 }
 
-.footer{
-    width: 100vw;
-    height: 4em;
-    position: relative;
-    float: bottom;
-    display: block;
-    font-size: 1em;
-    color: whitesmoke;
-    text-align: center;
-    background-color:rgba(65, 138, 98, 0.642);
-    border-top: 1px solid lightgray;
-    box-shadow: 
-    0 -4px -8px 0 rgba(26, 25, 25, 0.2),
-    0 -6px -20px 0 rgba(26, 25, 25, 0.19);
-}
 
-footer ul#menuFooter {
-    color: black;
-    display: inline-block;
-    padding: 4px;
-}
